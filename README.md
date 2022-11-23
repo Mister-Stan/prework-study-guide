@@ -1,7 +1,7 @@
   # Prework Study Guide Webpage
 
 ## Description
- This study guide was created for boot camp students who were going through the prework.It contains notes on HTML, CSS, Git, and JavaScript.
+ This study guide was created for bootcamp students who were going through the prework.It contains notes on HTML, CSS, Git, and JavaScript.
 
 ## Installation
 
