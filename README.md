@@ -1,17 +1,11 @@
-  # Prework Study Guide Webpage
+# Prework Study Guide 
 
-## Description
- This study guide was created for boot camp students who were going through the prework.It contains notes on HTML, CSS, Git, and JavaScript.
+## Webiste link: https://Mister-Stan.github.io/prework-study-guide/
 
-## Installation
+## This file is part of Prework Study Guide which is delivered by Trilogy Education Services, an affiliate of edX. Contact Trilogy Skills Bootcamp at +442038356355.
 
-N/A
+## Installation N/A
 
-## Usage
-To use this study guide, you can review the notes in each section.
-
-## Credits
-N/A
-
-## License
-MIT License
+## Credits https://skillsforlife.edx.org/
+ 
+## License MIT License
